@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zeplin-co
-- 👀 I’m interested in ... AI Engineerin
+- 👀 I’m interested in ... AI Engineering
 - 🌱 I’m currently learning ... Basic Python
 - 💞️ I’m looking to collaborate on ... Learn about coding
 - 📫 How to reach me ... Instagram @khaarul.jk
